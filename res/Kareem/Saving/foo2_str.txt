@@ -1,0 +1,9 @@
+Name foo2
+tickerSymbols FB GOOGL AMZN 
+InvestmentRatios 0.3333333333333333 0.3333333333333333 0.3333333333333333 
+investAmount 100.0
+sellingComission 0.0
+buyingComission 10.0
+startDate 2018-10-10
+endDate null
+InvestmentPeriodicity 0

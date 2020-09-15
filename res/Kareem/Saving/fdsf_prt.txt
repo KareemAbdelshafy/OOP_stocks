@@ -1,0 +1,11 @@
+Name fdsf
+tickerSymbols AAPL 
+InvestmentRatios 1.0 
+investAmount 100.0
+sellingComission 0.0
+buyingComission 1.0
+startDate 2017-10-10
+endDate null
+InvestmentPeriodicity 0
+PortfolioImpl Name: fdsf
+ID 1 company AAPL  numberOfShares 0.6414368184733803 unit price 155.9 totalPrice 99.99999999999999 Date 2017-10-10

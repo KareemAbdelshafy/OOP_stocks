@@ -1,0 +1,9 @@
+Name nnd
+tickerSymbols AAPL TSLA 
+InvestmentRatios 0.5 0.5 
+investAmount 100.0
+sellingComission 0.0
+buyingComission 10.0
+startDate 2017-10-10
+endDate null
+InvestmentPeriodicity 0

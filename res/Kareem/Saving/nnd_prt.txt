@@ -1,0 +1,13 @@
+Name nnd
+tickerSymbols AAPL TSLA 
+InvestmentRatios 0.5 0.5 
+investAmount 100.0
+sellingComission 0.0
+buyingComission 10.0
+startDate 2017-10-10
+endDate null
+InvestmentPeriodicity 0
+PortfolioImpl Name: nnd
+ID 5 company AAPL  numberOfShares 0.6414368184733803 unit price 155.9 totalPrice 99.99999999999999 Date 2017-10-10
+ID 6 company AAPL  numberOfShares 0.32071840923669015 unit price 155.9 totalPrice 49.99999999999999 Date 2017-10-10
+ID 7 company TSLA  numberOfShares 0.14061137827272985 unit price 355.59 totalPrice 50.0 Date 2017-10-10

@@ -1,0 +1,13 @@
+Name foo2
+tickerSymbols FB GOOGL AMZN 
+InvestmentRatios 0.3333333333333333 0.3333333333333333 0.3333333333333333 
+investAmount 1000.0
+sellingComission 0.0
+buyingComission 5.0
+startDate 2018-1-10
+endDate null
+InvestmentPeriodicity 0
+PortfolioImpl Name: foo2
+ID 4 company FB  numberOfShares 1.7745599091425326 unit price 187.84 totalPrice 333.3333333333333 Date 2018-1-10
+ID 5 company GOOGL  numberOfShares 0.30026242936326347 unit price 1110.14 totalPrice 333.3333333333333 Date 2018-1-10
+ID 6 company AMZN  numberOfShares 0.26574612209971327 unit price 1254.33 totalPrice 333.3333333333333 Date 2018-1-10
